@@ -26,11 +26,7 @@ Below is a list of my completed courses.
 
 ### Java
 
-- Abstraction and Encapsulation. — _Program: [dio - Santander 2026 - AI Java Back-end](https://www.dio.me)_ — _Duration: 2h._ | 🗹 <a href="" target="_blank" rel="noopener noreferrer">[Certificate]</a>
-- Control Structures. — _Program: [dio - Santander 2026 - AI Java Back-end](https://www.dio.me)_ — _Duration: 2h._ | 🗹 <a href="" target="_blank" rel="noopener noreferrer">[Certificate]</a>
-- Introduction to Java. — _Program: [dio - Santander 2026 - AI Java Back-end](https://www.dio.me)_ — _Duration: 2h._ | 🗹 <a href="" target="_blank" rel="noopener noreferrer">[Certificate]</a>
-- Java Fundamentals. — _Program: [dio - Santander 2026 - AI Java Back-end](https://www.dio.me)_ — _Duration: 8h._ | 🗹 <a href="" target="_blank" rel="noopener noreferrer">[Certificate]</a>
-- Syntax Fundamentals. — _Program: [dio - Santander 2026 - AI Java Back-end](https://www.dio.me)_ — _Duration: 2h._ | 🗹 <a href="" target="_blank" rel="noopener noreferrer">[Certificate]</a>
+- Java Fundamentals. — _Program: [dio - Santander 2026 - AI Java Back-end](https://www.dio.me)_ — _Duration: 8h._ | 🗹 <a href="https://pub-87ef47ec373c4e32be7aab2aa7a09d76.r2.dev/images/c9f81b62-5996-4743-a8c0-11b06e095507-Javafundamentalsdio1webp.webp" target="_blank" rel="noopener noreferrer">[Certificate]</a>
 
 ### JavaScript
 

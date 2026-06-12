@@ -22,7 +22,7 @@ Below is a list of my completed courses. To date, I have completed `8` courses, 
 
 ### Databases
 
-- Banco de dados [Databases]: _SQL & PostgreSQL_. _School: [Rocketseat](https://rocketseat.com.br)_. _Duration: 50h._ | 🗹 [Certificate](./certificates/courses/Banco_de_Dados_PT.pdf)
+- Banco de dados [Databases]: _SQL & PostgreSQL_. _School: [Rocketseat](https://rocketseat.com.br)_. _Duration: 50h._ | 🗹 <a href="https://pub-87ef47ec373c4e32be7aab2aa7a09d76.r2.dev/images/44a8707a-5d92-4706-92eb-caf267b7d524-BancodeDadosPT1webp.webp" target="_blank" rel="noopener noreferrer">[Certificate]</a>
 
 ### Java
 

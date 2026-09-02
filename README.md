@@ -21,6 +21,10 @@
 
 Below is a list of my completed courses.
 
+### Dart and Programming Logic
+
+- Dart: Programming Logic. — _School: [Growdev](https://growdev.com.br/)_ — _Duration: 30h._ | 🗹 <a href="./certificates/Certificado Dart - Lógica de Programação.pdf" target="_blank" rel="noopener noreferrer">[Certificate]</a>
+
 ### Databases
 
 - Databases: SQL & PostgreSQL. — _School: [Rocketseat](https://rocketseat.com.br)_ — _Duration: 50h._ | 🗹 <a href="./certificates/Banco_de_Dados_EN.pdf" target="_blank" rel="noopener noreferrer">[Certificate]</a>
